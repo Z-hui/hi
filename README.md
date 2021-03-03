@@ -1,4 +1,6 @@
 
+iOS 技术支持：
+
 # 亲爱的用户
 
 如果您在使用我们的产品时遇到任何问题，请随时与我们联系，我们将全力全意为您解决！
@@ -15,6 +17,6 @@ If you encounter any problems when using our products, please feel free to conta
 
 Please email us, we will serve you 24 hours a day!
 
-Email address: guandianqu@huirongtech.com
+Email address: zhulixue1002@163.com
 
 thank you
